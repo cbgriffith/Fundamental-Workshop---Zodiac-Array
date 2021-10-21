@@ -6,7 +6,7 @@ export const Zodiac = (zodiac) => {
             <div class="zodiac__mascot">Mascot: ${zodiac.mascot}</div>
             <div class="zodiac__dates">Dates: ${zodiac.dates}</div>
             <div class="zodiac__element">Element: ${zodiac.element}</div>
-            <div class="zodiac__animal">Animal: ${zodiac.wvAnimal}</div><br>
-        </section>
+            <div class="zodiac__animal">Animal: ${zodiac.wvAnimal}</div>
+        </section><br>
     `
 }
